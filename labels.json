@@ -1,0 +1,26 @@
+[
+    {
+        "name": "bug",
+        "color": "ee0701"
+    },
+    {
+        "name": "enhancement",
+        "color": "90eda0"
+    },
+    {
+        "name": "good first issue",
+        "color": "6f4fff"
+    },
+    {
+        "name": "Hacktoberfest",
+        "color": "152347"
+    },
+    {
+        "name": "needs more info",
+        "color": "FFED4A"
+    },
+    {
+        "name": "PR welcome",
+        "color": "2436de"
+    }
+]
